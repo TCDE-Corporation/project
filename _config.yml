@@ -1,20 +1,18 @@
 title: TCDE
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This company doesn't exist! welcome to the journey.
 permalink: ':title/'
 baseurl: "/project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: TCDE-Corporation # add your name
+author: TCDE # add your name
 author-img: logo.PNG # add your photo
 about-author: This Corporation Doesn't Exist! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: tcde-corporation # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: tcde-corporation@hi2.in # add your Email address
 
