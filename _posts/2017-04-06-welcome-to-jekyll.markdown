@@ -1,26 +1,18 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: "Welcome to TCDE!"
+date: 2020-11-04 05:52:20 +0300
+description: As the title if this website suggests, this corporation doesn't exist, so the main question is why there should be a website for a company that doesn't exist? well we try to answer this question in this post! # Add post description (optional)
 img:  # Add image post (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As the title if this website suggests, this corporation doesn't exist, so the main question is why there should be a website for a company that doesn't exist? well we try to answer this question in this post!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We are living in a world that is constantly being affected by technology. and most of the organizations, facilities etc are not exception. from management method to production line, everything is changing. Now if we look at this change as a project, you can see why we are here.
 
-Jekyll also offers powerful support for code snippets:
+In the future posts we are going to present you, a step-by-step methodolgy to digitize your manufacturing plant. notice that ererything about our company is generated randomly by artificial intelligence. that is because we want to make sure that we are working in a real situtaion, cause y'know, randomness comes out of reality! or as Eric Hoffer says: "Creativity is the ability to introduce order into the randomness of nature."
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+ Also check out the [tribe community][tribe-community] for more info on this project. File all bugs/feature requests at [TCDE’s GitHub repo][tcde-gh]. If you have questions, you can ask them via our [email][email].
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[tribe-community]: https://tcde-corporation.tribe.so/
+[tcde-gh]:   https://github.com/TCDE-Corporation
+[email]: mailto:tcde-corporation@hi2.in
