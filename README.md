@@ -1,4 +1,3 @@
 # project
-Flexible-Jekyll is a simple and clean theme for Jekyll
-Hello! 
+## Hello! 
 this is a theme we forked from Flexible-Jekyll, we are working on it to make it more customized ... 
