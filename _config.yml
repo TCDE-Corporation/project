@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: TCDE # add your name
-author-img: logo.PNG # add your photo
+author-img: logo.png # add your photo
 about-author: This Corporation Doesn't Exist! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
