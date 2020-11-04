@@ -14,35 +14,47 @@ tags: [Peoject_Management]  # add tag like this [Js, Conference]
 ## Introduction/Background
 
 In 2015 a new word has been defined: 4th industrial revolution. A good way to develop an understanding of the destination of this path, could be looking where it came from. Therefore what follows is description of the previous three industrial revolutions, from machine age to robotics: 
+
 The First Industrial Revolution was marked by a transition from hand production methods to machines through the use of steam power and water power. The implementation of new technologies took a long time, so the period which this refers to it is between 1760 and 1820, or 1840 in Europe and the United States. 
+
 The Second Industrial Revolution, also known as the Technological Revolution, is the period between 1871 and 1914 that resulted from installations of extensive railroad and telegraph networks, which allowed for faster transfer of people and ideas, as well as electricity. 
-The Third Industrial Revolution, also known as the Digital Revolution, occurred in the late 20th century, after the end of the two world wars, resulting from a slowdown of industrialization and technological advancement compared to previous periods. 
-Now if we look at these three industrial revolutions we can see that as throughout history the main goal of this path was to minimize the human interference using technology although this definition is incomplete when you look for other concepts like MIC 2025, but from a western perspective is actually what is happening.
+
+The Third Industrial Revolution, also known as the Digital Revolution, occurred in the late 20th century, after the end of the two world wars, resulting from a slowdown of industrialization and technological advancement compared to previous periods. Now if we look at these three industrial revolutions we can see that as throughout history the main goal of this path was to minimize the human interference using technology although this definition is incomplete when you look for other concepts like MIC 2025, but from a western perspective is actually what is happening.
+
 In the fourth industrial revolution concepts like large-scale machine to machine communication, block chain, artificial intelligence and deep learning were born that could lead any industry to an efficient, effective and more accurately a lean production.
 
 ## Business Objectives
 
 There are a quite various number of domain that we define as goals:
-•	Maximizing the productivity of the facility while reducing long term costs
-•	Minimizing the waste of production
-•	Developing a faster (almost simultaneous) reaction to indoor casualties.
-•	Improving the quality of final product in each crucial aspects (reliability, aesthetics etc.)
-•	Cutting out a large amount of external quality costs (e.g. guarantee, maintenance, after-sale services)
-•	Improving the organizational culture and education
-•	This list is being completed … 
+*	Maximizing the productivity of the facility while reducing long term costs
+
+*	Minimizing the waste of production
+
+*	Developing a faster (almost simultaneous) reaction to indoor casualties.
+
+*	Improving the quality of final product in each crucial aspects (reliability, aesthetics etc.)
+
+*	Cutting out a large amount of external quality costs (e.g. guarantee, maintenance, after-sale services)
+
+*	Improving the organizational culture and education
+
+*	This list is being completed … 
 
 ## Current Situation
 Shawn Fitzgerald, Research Director for Digital Transformation Strategies at IDC was asked to explain current situation of digital transformation and responded:
-Our DX maturity benchmark of over 1,600 companies tells us 67% are in the early stages of their transformation as “digital explorers” or “digital players.” While a lot of progress has been made, a little less than 5% of companies are fully transformed. The full disruptive impact of DX has not yet been realized, but is well on its way and is going to fundamentally change business markets and how you attract, delight, and retain customers.
-Opportunity Statement
+
+>Our DX maturity benchmark of over 1,600 companies tells us 67% are in the early stages of their transformation as “digital explorers” or “digital players.” While a lot of progress has been made, a little less than 5% of companies are fully transformed. The full disruptive impact of DX has not yet been realized, but is well on its way and is going to fundamentally change business markets and how you attract, delight, and retain customers.
+
+## Opportunity Statement
 According to an analysis from IDC (at idc.com), after categorizing industrial organizations into two groups:
+
 1) Digital organization : Companies which are digitally transformed or in the process of digital transformation, based upon IDC’s DX (digital transformation) maturity framework
+
 2) None-Digital organization: Companies that have not undertaken any digital initiatives, based upon IDC’s DX maturity framework.
+
 Then, by looking at revenue and profit performance over a five-year period, and the changes that occur within each group, IDC normalized the performance through a Revenue Performance Index (RPI) and Profit Performance Index (PPI), with every organization starting at 100 in 2013. The change in performance was tracked, with increases in the index meaning improved revenue and profit performance and decreases meaning poorer performance.
 
 ![I and My friends]({{site.baseurl}}/assets/img/RPI.png)
-
-![I and My friends]({{site.baseurl}}/assets/img/PPI.png)
 
 Figure 1 & 2 from "Capitalize on the Industrial Internet Opportunity" issued by GE digital on 2019
 
@@ -112,28 +124,41 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
 ## Summary Milestone Schedule – List key project milestones relative to project start.
 
 	Project Milestone						Target Date (mm/dd/yyyy)
-•	Project Start							01/01/2020
-•	Complete Solution Design					01/21/2020
-•	Acquire Hardware and Software					01/26/2020
-•	Deploy IT&OT data gathering systems and subsystems		04/01/2020
-•	Implementation and Synchronization of IIoT platform		08/01/2020
-•	Defining/prioritizing industrial applications of IIoT platform	09/01/2020
-•	Deploy Solution to the industry					09/20/2020
-•	Project Complete						10/01/2020
+	
+	Project Start							01/01/2020
+	
+	Complete Solution Design					01/21/2020
+	
+	Acquire Hardware and Software					01/26/2020
+	
+	Deploy IT&OT data gathering systems and subsystems		04/01/2020
+	
+	Implementation and Synchronization of IIoT platform		08/01/2020
+	
+	Defining/prioritizing industrial applications of IIoT platform	09/01/2020
+	
+	Deploy Solution to the industry					09/20/2020
+	
+	Project Complete						10/01/2020
 
 
-#SUMMARY BUDGET
+# SUMMARY BUDGET
 
 The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project. This list may be updated.
 
 ## Summary Budget – List component project costs  
 
 	Project Component		Component Cost
-•	Personnel Resources		$110,000
-•	Hardware			$45,000 + additional requirements fee
-•	Software and Licensing		$75,000
-•	IT Lab Preparation		$15,000
-•	Total				$245,000
+	
+	Personnel Resources		$110,000
+	
+	Hardware			$45,000 + additional requirements fee
+	
+	Software and Licensing		$75,000
+	
+	IT Lab Preparation		$15,000
+	
+	Total				$245,000
 
 
 # PROJECT APPROVAL REQUIREMENTS
@@ -150,6 +175,7 @@ John Doe is named Project Manager for the duration of the DX Project.  Mr. Doe�
 Approved by the Project Sponsor:
 
 Digitally signed by Jim M. Thomas, CEO at THDE Holding
+
 Date: 11/04/2020
  
 
