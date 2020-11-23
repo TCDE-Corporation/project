@@ -5,7 +5,7 @@ date: 2020-11-04 05:52:20 +0300
 description: As the title if this website suggests, this corporation doesn't exist, so the main question is why there should be a website for a company that doesn't exist? well we try to answer this question in this post! # Add post description (optional)
 img:  # Add image post (optional)
 ---
-As the title if this website suggests, this corporation doesn't exist, so the main question is why there should be a website for a company that doesn't exist? well we try to answer this question in this post!
+As the title of this website suggests, this corporation doesn't exist, so the main question is why there should be a website for a company that doesn't exist? well we try to answer this question in this post!
 
 We are living in a world that is constantly being affected by technology. and most of the organizations, facilities etc are not exception. from management method to production line, everything is changing. Now if we look at this change as a project, you can see why we are here.
 
